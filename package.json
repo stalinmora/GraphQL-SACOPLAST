@@ -1,0 +1,17 @@
+{
+  "name": "GraphQL-SACOPLAST",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stalinmora/GraphQL-SACOPLAST.git",
+  "author": "stalinmora <stalin.mora.burgos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.25.2",
+    "graphql": "^15.5.1",
+    "mssql": "^7.1.3",
+    "mssql2": "^3.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
